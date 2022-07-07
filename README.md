@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niki Kayastha</h1>
 <h3 align="center">A girl who is always in the urge to learn new things.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15628402-Working-on-a-Project">
+<img align="right" alt="Coding" width="400" src="https://stock.adobe.com/stock-photo/id/432312219">
 
 - 📫 How to reach me **niki.kstha7664@gmail.com**
 
