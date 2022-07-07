@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niki Kayastha</h1>
 <h3 align="center">A girl who is always in the urge to learn new things.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr](https://giphy.com/embed/L1R1tvI9svkIWwpVYr)">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 📫 How to reach me **niki.kstha7664@gmail.com**
 
