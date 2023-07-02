@@ -4,8 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning **web development**
-- 📫 How to reach me **niki.kstha7664@gmail.com**
+- 📫 How to reach me **nikikstha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
